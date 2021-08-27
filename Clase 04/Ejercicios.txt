@@ -1,0 +1,20 @@
+Una materia dispone de 3 exámenes durante su cursada. La situación de cada alumno se determina a partir de las siguientes condiciones:
+
+- Si todos los exámenes tienen nota 8 o más: Promociona
+- Si al menos dos exámenes tienen nota 6 o más: Regulariza
+- De lo contrario: Recursa
+
+Dadas las tres notas de un alumno, calcular e informar la situación del mismo.
+
+Resolver esto de dos maneras:
+- A) Con ciclo
+- B) Sin ciclo
+
+
+
+----------------------------------------------------------------------------------------------
+
+Se dispone de la información de los cinco alumnos de la materia del ejercicio anterior. A partir de la lógica resuelta anteriormente, ingresar las notas de los cinco alumnos y calcular:
+
+- La cantidad de promocionados, regularizados y recursantes.
+- El promedio de calificaciones.
