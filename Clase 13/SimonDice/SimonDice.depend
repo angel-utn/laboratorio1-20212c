@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1635555237 source:e:\projects\c++\simondice\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	"funciones.h"
+
+1635555107 source:e:\projects\c++\simondice\funciones.cpp
+	<iostream>
+	<cstdlib>
+	"funciones.h"
+
+1635554922 e:\projects\c++\simondice\funciones.h
+
